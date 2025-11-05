@@ -37,7 +37,7 @@ Todo en un script ligero y fácil de usar.
 
 ## 📫 Contacto
 
-- Email: adrian74gimenez@gmail.com  
+- Email: VanilleSpectre@proton.me  
 - Instagram: [@vanille.vault](https://www.instagram.com/vanille.vault)  
 
 ---
