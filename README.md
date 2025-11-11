@@ -1,31 +1,27 @@
-# 👋 Hola, soy Adrián — alias VanilleVault
-
-🚀 Hacker ético y creador del **Vanille System**  
-🛠️ Especialista en OSINT modular y hacking estético para Termux  
-🔒 Desarrollo sistemas de cifrado táctico para comunicaciones seguras  
-🕶️ Siempre operando en modo stealth y bajo perfil  
-
+# Hola, soy Adrián — alias Vanille
+Especialista en OSINT modular y hacking
+Desarrollo sistemas de cifrado táctico para comunicaciones seguras  
 ---
 
 ## 🔭 Ecosistema Vanille — Proyectos destacados
 
 ### vanille-system  
-🔒 Sistema modular OSINT y hacking estético para Termux – Vanille Style  
+Sistema modular OSINT y hacking estético para Termux – Vanille Style  
 [Repositorio vanille-system](https://github.com/VanilleVault/vanille-system)  
 
 ### nvll-shift  
-🔐 Sistema de cifrado táctico NVLL-SHIFT para comunicaciones encubiertas del Nodo Spectre.  
+Sistema de cifrado táctico NVLL-SHIFT para comunicaciones encubiertas del Nodo Spectre.  
 Basado en desplazamiento cifrado y alfabetos personalizados.  
 [Repositorio nvll-shift](https://github.com/VanilleVault/nvll-shift)  
 
 ### VanilleRecon  
-🕵️ OSINT rápido y minimalista para dominios web: WHOIS, DNS, subdominios y más.  
+OSINT rápido y minimalista para dominios web: WHOIS, DNS, subdominios y más.  
 Todo en un script ligero y fácil de usar.  
 [Repositorio VanilleRecon](https://github.com/VanilleVault/VanilleRecon)  
 
 ---
 
-## 🛠️ Tecnologías & skills
+##Tecnologías & skills
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -35,7 +31,7 @@ Todo en un script ligero y fácil de usar.
 
 ---
 
-## 📫 Contacto
+##ontacto
 
 - Email: VanilleSpectre@proton.me  
 - Instagram: [@vanille.vault](https://www.instagram.com/vanille.vault)  
