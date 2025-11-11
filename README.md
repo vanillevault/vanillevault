@@ -31,7 +31,7 @@ Tecnologías & skills
 
 ---
 
-contacto
+### contacto
 
 
 - Email: VanilleSpectre@proton.me  
