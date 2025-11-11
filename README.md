@@ -1,6 +1,6 @@
 # Hola, soy Adrián — alias Vanille
-Especialista en OSINT modular y hacking
-Desarrollo sistemas de cifrado táctico para comunicaciones seguras  
+Especialista en OSINT modular, hacking y
+desarrollo sistemas de cifrado táctico para comunicaciones seguras  
 ---
 
 ## 🔭 Ecosistema Vanille — Proyectos destacados
