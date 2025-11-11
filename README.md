@@ -21,7 +21,7 @@ Todo en un script ligero y fácil de usar.
 
 ---
 
-###Tecnologías & skills
+Tecnologías & skills
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -31,7 +31,7 @@ Todo en un script ligero y fácil de usar.
 
 ---
 
-###contacto
+contacto
 
 
 - Email: VanilleSpectre@proton.me  
