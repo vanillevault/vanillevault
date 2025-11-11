@@ -31,7 +31,7 @@ Todo en un script ligero y fácil de usar.
 
 ---
 
-##ontacto
+contacto
 
 - Email: VanilleSpectre@proton.me  
 - Instagram: [@vanille.vault](https://www.instagram.com/vanille.vault)  
