@@ -1,45 +1,39 @@
-# Hola, soy Adrián — alias Vanille
-Especialista en OSINT modular, hacking y
-desarrollo sistemas de cifrado táctico para comunicaciones seguras  
----
+# 👤 VanilleVault — Operador & Arquitecto OSINT
 
-## 🔭 Ecosistema Vanille — Proyectos destacados
-
-### vanille-system  
-Sistema modular OSINT y hacking estético para Termux – Vanille Style  
-[Repositorio vanille-system](https://github.com/VanilleVault/vanille-system)  
-
-### nvll-shift  
-Sistema de cifrado táctico NVLL-SHIFT para comunicaciones encubiertas del Nodo Spectre.  
-Basado en desplazamiento cifrado y alfabetos personalizados.  
-[Repositorio nvll-shift](https://github.com/VanilleVault/nvll-shift)  
-
-### VanilleRecon  
-OSINT rápido y minimalista para dominios web: WHOIS, DNS, subdominios y más.  
-Todo en un script ligero y fácil de usar.  
-[Repositorio VanilleRecon](https://github.com/VanilleVault/VanilleRecon)  
+**Adrian E. Silva Giménez** (he/him)  
+🕶️ Operador modular, hacker ético y creador del ecosistema Vanille.
 
 ---
 
-### Tecnologías & skills
-
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Termux](https://img.shields.io/badge/-Termux-000000?style=flat&logo=termux&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+## 🔍 Acerca de mí
+- Especializado en **OSINT**, automatización y setups tácticos para Termux.  
+- Creador del **Vanille System**, un entorno modular para reconocimiento, inteligencia y defensa.  
+- Experiencia en análisis de IP/ASN, metadatos EXIF, comunicaciones cifradas y operaciones en entornos de bajo perfil.
 
 ---
 
-### Contacto
+## 🛠️ Ecosistema de Herramientas
 
-
-- Email: VanilleSpectre@proton.me  
-- Instagram: [@vanille.vault](https://www.instagram.com/vanille.vault)  
+| Proyecto | Tech | Función |
+|---------|------|---------|
+| **vanille-system** | Bash | Sistema modular OSINT & hacking para Termux |
+| **NodeSpectre-IP-Intelligence** | Python/Bash | Geolocalización, ASN, detección de VPN/proxy |
+| **nvll-downloader** | JavaScript | Descargas MP3/MP4 minimalistas desde terminal |
+| **VanilleRecon** | Bash | WHOIS, DNS y subdominios al instante |
+| **nvll-shift** | Python | Cifrado táctico de desplazamiento operativo |
+| **stalkfinder** | Python | Rastreo de usuarios multiplataforma |
 
 ---
 
-> _"El sigilo es el arma definitiva. El conocimiento, la munición."_  
+## 📚 Recursos
+- **Web:** https://vanillevault.github.io  
+- Para bugs o mejoras → *Issues* del repo correspondiente.  
+- Contribuciones abiertas vía *pull requests*.
 
 ---
 
+## 🧭 Contacto
+- **Instagram:** https://www.instagram.com/vanille.vault  
+- **WhatsApp:** https://wa.me/+376653494  
+
+Siempre disponible para operaciones, análisis y colaboraciones técnicas.
